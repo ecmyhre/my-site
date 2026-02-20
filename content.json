@@ -1,0 +1,15 @@
+{
+  "siteTitle": "Eric Myhre",
+  "home": {
+    "headline": "Hello — I’m Eric Myhre.",
+    "subhead": "A short sentence about what you do.",
+    "ctaText": "Email me",
+    "ctaHref": "mailto:ecmyhre93@gmail.com"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "portfolio": "Portfolio",
+    "words": "Words"
+  }
+}
