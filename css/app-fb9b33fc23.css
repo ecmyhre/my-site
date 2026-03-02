@@ -2841,3 +2841,18 @@ html {
 .u-inline-block {
   display: inline-block;
 }
+/* ============================= */
+/* A Heated Rivalry Card */
+/* ============================= */
+
+.link-block--rivalry .link-block__bg {
+  background-image: url("../img/portfolio/a-heated-rivalry/hero.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  transition: opacity 0.4s ease;
+}
+
+.link-block--rivalry:hover .link-block__bg {
+  opacity: 0.85;
+}
